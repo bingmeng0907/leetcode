@@ -30,6 +30,8 @@ public class WildcardMatching {
         s = "cb"; p = "?a";
         s = "adceb";
         p = "*a*b";
+        s = "acdscd";
+        p = "*cd";
         new WildcardMatching().isMatch(s, p);
     }
 }

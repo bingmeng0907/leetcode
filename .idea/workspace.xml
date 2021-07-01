@@ -1,18 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c69cffbc-a20b-4ef1-8067-b06296b0af9a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RestoreIPAddresses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/Filter/TestBloomFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/MergeMulList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/collection/TestArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ContinuousSubarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/CountReversePair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/CountSmallerAfterSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/CourseSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/CourseScheduleII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/FindLeftBound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/FindRepeatCharFrom2Str.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/Hanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/Joseph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MinRabbits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MinimumHeightTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MultiStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/NQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/QuickFindUF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RegularExpressionMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ReverseKDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/SoneGameII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/StoneGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/StoneGameIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/StoneGameIV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/StoneGameV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/SubArraysDivByK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/Tmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/TwoArrSumTopk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/lock/SynchronizedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/lock/TestLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/multithread/TestThreadLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/multithread/ThreadPoolException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MedianofTwoSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MedianofTwoSortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/WildcardMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/WildcardMatching.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/leetcode$FindKClosestElements.ic" NAME="FindKClosestElements Coverage Results" MODIFIED="1581234955015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -20,12 +74,44 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RemoveInvalidParentheses.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RemoveInvalidParentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountReversePair.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/CountReversePair.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountSmallerAfterSelf.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/CountSmallerAfterSelf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -33,6 +119,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>remove</find>
+      <find>asList</find>
+      <find>F</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -41,46 +129,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/JumpGameIV.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/AddBinary.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/LongestCommonPrefix.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ArrayPartitionI.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MinimumSizeSubarraySum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RotateArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/PascalsTriangleII.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ReverseWordsinaString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ReverseWordsinaStringIII.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RemoveDuplicatesfromSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MoveZeroes.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MyLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/LinkedListCycle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/LinkedListCycleII.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/IntersectionofTwoLinkedLists.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RemoveNthNodeFromEndofList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/WordLadderII.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/SumofSubsequenceWidths.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ReverseSubarrayToMaximizeArrayValue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MajorityChecker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MajorityElementII.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/NumberofSubmatricesThatSumtoTarget.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MaximumSumof3NonOverlappingSubarrays.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MaxChunksToMakeSorted.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MaxChunksToMakeSortedII.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RandomizedCollection.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/InsertDeleteGetRandom.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/FindKthSmallestPairDistance.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/BestTimetoBuyandSellStockIII.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/WildcardMatching.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ValidNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/LongestSubstringWithoutRepeatingCharacters.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/SmallestRangeCoveringElementsfromKLists.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/CountUniqueCharactersofAllSubstringsofaGivenString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RandomPickwithBlacklist.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/FreqStack.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MaxPointsonaLine.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/LongestDuplicateSubstring.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MinimumInsertionStepstoMakeaStringPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RemoveInvalidParentheses.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/BinaryTreeMaximumPathSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/EditDistance.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/LongestIncreasingPathinaMatrix.java" />
@@ -92,6 +143,43 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/PermutationSequence.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RestoreIPAddresses.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/multithread/ThreadPoolException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/lock/TestLock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/QuickFindUF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/LRUCache.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/Filter/TestBloomFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/FindLeftBound.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/lock/SynchronizedDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/Hanoi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/collection/TestArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/SubArraysDivByK.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ContinuousSubarraySum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ReverseInteger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RegularExpressionMatching.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/WildcardMatching.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/StoneGame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/SoneGameII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/StoneGameIII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/StoneGameIV.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/StoneGameV.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/NQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/multithread/TestThreadLocal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/MergeMulList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/Joseph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/FindRepeatCharFrom2Str.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/TwoArrSumTopk.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RemoveInvalidParentheses.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/CountReversePair.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/CountSmallerAfterSelf.java" />
       </list>
     </option>
   </component>
@@ -101,22 +189,19 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1880" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="11" />
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
   </component>
+  <component name="ProjectId" id="1rYK3srOYFZxTsg6qWte987Ir4m" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -195,7 +280,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,49 +311,58 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Inor&#9;PSI&#9;JAVA://com.hjkl.exercise.leetcode.BinaryTreeMaximumPathSum#inorder&#10;LinkedLi&#9;PSI&#9;JAVA://java.util.LinkedList" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="Future&#9;PSI&#9;JAVA://java.util.concurrent.Future&#10;Call&#9;FILE&#9;jar:///Users/chenchao23/.m2/repository/com/google/guava/guava/23.0/guava-23.0.jar!/com/google/common/util/concurrent/Callables.class&#10;Jo&#9;FILE&#9;file:///Users/chenchao23/Project/leetcode/src/main/java/com/hjkl/exercise/leetcode/Joseph.java&#10;Arrays&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar!/java/util/Arrays.class&#10;Qu&#9;FILE&#9;file:///Users/chenchao23/Project/leetcode/src/main/java/com/hjkl/exercise/leetcode/QuickSort.java&#10;Inor&#9;PSI&#9;JAVA://com.hjkl.exercise.leetcode.BinaryTreeMaximumPathSum#inorder&#10;LinkedLi&#9;PSI&#9;JAVA://java.util.LinkedList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.hjkl.exercise.leetcode" />
+      <recent name="com.hjkl.exercise" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.hjkl.exercise.leetcode" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Triangle">
+  <component name="RunManager" selected="Application.HeapSort">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="PermutationSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hjkl.exercise.leetcode.PermutationSequence" />
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hjkl.exercise.leetcode.HeapSort" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -278,9 +371,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="RestoreIPAddresses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hjkl.exercise.leetcode.RestoreIPAddresses" />
+    <configuration name="MedianofTwoSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hjkl.exercise.leetcode.MedianofTwoSortedArrays" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -289,9 +385,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="SearchinRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hjkl.exercise.leetcode.SearchinRotatedSortedArray" />
+    <configuration name="MultiStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hjkl.exercise.leetcode.MultiStr" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -300,9 +399,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="SlidingWindowMedian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hjkl.exercise.leetcode.SlidingWindowMedian" />
+    <configuration name="RadixSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hjkl.exercise.leetcode.RadixSort" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -311,9 +413,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hjkl.exercise.leetcode.Triangle" />
+    <configuration name="Tmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hjkl.exercise.leetcode.Tmp" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -322,65 +427,50 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SlidingWindowMedian" />
-      <item itemvalue="Application.SearchinRotatedSortedArray" />
-      <item itemvalue="Application.PermutationSequence" />
-      <item itemvalue="Application.RestoreIPAddresses" />
-      <item itemvalue="Application.Triangle" />
+      <item itemvalue="Application.MultiStr" />
+      <item itemvalue="Application.MedianofTwoSortedArrays" />
+      <item itemvalue="Application.Tmp" />
+      <item itemvalue="Application.RadixSort" />
+      <item itemvalue="Application.HeapSort" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Triangle" />
-        <item itemvalue="Application.RestoreIPAddresses" />
-        <item itemvalue="Application.PermutationSequence" />
-        <item itemvalue="Application.SearchinRotatedSortedArray" />
-        <item itemvalue="Application.SlidingWindowMedian" />
+        <item itemvalue="Application.HeapSort" />
+        <item itemvalue="Application.RadixSort" />
+        <item itemvalue="Application.Tmp" />
+        <item itemvalue="Application.MedianofTwoSortedArrays" />
+        <item itemvalue="Application.MultiStr" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -430,86 +520,143 @@
       <workItem from="1583974759777" duration="597000" />
       <workItem from="1584066888166" duration="525000" />
       <workItem from="1588842136812" duration="179000" />
+      <workItem from="1588842967941" duration="1419000" />
+      <workItem from="1588902917942" duration="1714000" />
+      <workItem from="1589450610962" duration="1216000" />
+      <workItem from="1590371859146" duration="2265000" />
+      <workItem from="1590485440442" duration="1946000" />
+      <workItem from="1590628953909" duration="824000" />
+      <workItem from="1590715943614" duration="7000" />
+      <workItem from="1592192363932" duration="641000" />
+      <workItem from="1592829022239" duration="1760000" />
+      <workItem from="1592960879472" duration="1118000" />
+      <workItem from="1593073008149" duration="222000" />
+      <workItem from="1593334025451" duration="27000" />
+      <workItem from="1593409743771" duration="807000" />
+      <workItem from="1594172522446" duration="9000" />
+      <workItem from="1594905352471" duration="987000" />
+      <workItem from="1595469403783" duration="590000" />
+      <workItem from="1604477094344" duration="1801000" />
+      <workItem from="1606181119138" duration="451000" />
+      <workItem from="1606275759493" duration="404000" />
+      <workItem from="1606721611368" duration="314000" />
+      <workItem from="1611130058234" duration="4109000" />
+      <workItem from="1611284336490" duration="22000" />
+      <workItem from="1613801769427" duration="2010000" />
+      <workItem from="1613816532920" duration="691000" />
+      <workItem from="1613964245137" duration="525000" />
+      <workItem from="1614131592273" duration="7524000" />
+      <workItem from="1614303326221" duration="2178000" />
+      <workItem from="1615877565591" duration="134000" />
+      <workItem from="1616407625709" duration="239000" />
+      <workItem from="1616663228366" duration="2737000" />
+      <workItem from="1616752127129" duration="174000" />
+      <workItem from="1617359183066" duration="602000" />
+      <workItem from="1617366432888" duration="1511000" />
+      <workItem from="1618124596748" duration="384000" />
+      <workItem from="1618190481280" duration="2288000" />
+      <workItem from="1618208927052" duration="369000" />
+      <workItem from="1618306021860" duration="1394000" />
+      <workItem from="1618391016941" duration="6152000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161194000" />
+    <option name="totallyTimeSpent" value="212759000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1880" y="23" width="1680" height="1027" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.312249" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32931727" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32730925" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="TunnelliJ" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32730925" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33753943" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25091577" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23594378" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5251004" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20757021" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32831326" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.32931727" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32831326" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3287483" />
     </layout>
     <layout-to-restore>
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23594378" />
       <window_info id="Image Layers" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32730925" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32967034" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31325302" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5251004" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32831326" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32730925" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="TunnelliJ" order="12" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21184371" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32831326" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20757021" />
       <window_info anchor="right" id="SciView" order="6" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32931727" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32967034" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3287483" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39759037" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.312249" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -517,213 +664,257 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ConstructBinaryTreefromPreorderandInorderTraversal.java</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MyCircularQueue.java</url>
           <line>59</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/EvaluateReversePolishNotation.java</url>
           <line>6</line>
-          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/_01Matrix.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/KeysandRooms.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/Combinations.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/FindKClosestElements.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ValidPerfectSquare.java</url>
           <line>4</line>
-          <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/FindMinimuminRotatedSortedArrayII.java</url>
           <line>5</line>
-          <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ValidIpCount.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ValidIpCount.java</url>
           <line>37</line>
-          <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/PlusOne.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/JumpGameII.java</url>
           <line>4</line>
-          <properties />
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/JumpGameIII.java</url>
           <line>5</line>
-          <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/AddBinary.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/LongestCommonPrefix.java</url>
           <line>4</line>
-          <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ReverseWordsinaStringIII.java</url>
           <line>4</line>
-          <properties />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RemoveDuplicatesfromSortedArray.java</url>
           <line>4</line>
-          <properties />
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/WordLadderII.java</url>
           <line>6</line>
-          <properties />
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/SumofSubsequenceWidths.java</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MajorityChecker.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MajorityElementII.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MaxChunksToMakeSorted.java</url>
           <line>4</line>
-          <properties />
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/WildcardMatching.java</url>
           <line>5</line>
-          <properties />
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/SubarrayswithKDifferentIntegers.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MaxPointsonaLine.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/LongestDuplicateSubstring.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/LongestIncreasingPathinaMatrix.java</url>
           <line>5</line>
-          <properties />
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/LongestRepeatingCharacterReplacement.java</url>
           <line>5</line>
-          <properties />
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/SlidingWindowMedian.java</url>
           <line>6</line>
-          <properties />
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/SearchinRotatedSortedArray.java</url>
           <line>6</line>
-          <properties />
           <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/PermutationSequence.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RestoreIPAddresses.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/Triangle.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="59" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/multithread/ThreadPoolException.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/FindLeftBound.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/SubArraysDivByK.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ReverseInteger.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/Solution.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/Solution.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/FindRepeatCharFrom2Str.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MinRabbits.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ReverseKDigit.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MinimumHeightTrees.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MultiStr.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MedianofTwoSortedArrays.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/Tmp.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="60" />
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>s.charAt(i) == p.charAt(j)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>r*10 &gt; 2147483640</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>Math.min(A[j], A[j+1])</expression-string>
         <language-id>JAVA</language-id>
@@ -759,389 +950,358 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>k&lt;s.length()-1</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>matrix[i][j]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ReverseWordsinaString.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        <state relative-caret-position="161">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ReverseWordsinaStringIII.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/Filter/TestBloomFilter.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/Filter/TestBloomFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="392">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RemoveDuplicatesfromSortedArray.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        <state relative-caret-position="414">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MoveZeroes.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar!/java/util/Arrays.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="232">
+          <caret line="1392" column="36" selection-start-line="1392" selection-start-column="36" selection-end-line="1392" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11293">
-          <caret line="524" column="17" selection-start-line="524" selection-start-column="17" selection-end-line="524" selection-end-column="17" />
+        <state relative-caret-position="30">
+          <caret line="1368" column="22" selection-start-line="1368" selection-start-column="22" selection-end-line="1368" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MyLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/FindLeftBound.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="37" />
+        <state relative-caret-position="299">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/LinkedListCycle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/Test.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="16629">
+          <caret line="755" selection-start-line="755" selection-end-line="755" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/LinkedListCycleII.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Solution.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="933">
+          <caret line="252" column="21" selection-start-line="252" selection-start-column="21" selection-end-line="252" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/IntersectionofTwoLinkedLists.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/lock/SynchronizedDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RemoveNthNodeFromEndofList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/Hanoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/collection.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/collection/TestArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/WordLadderII.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/SubArraysDivByK.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/SumofSubsequenceWidths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        <state relative-caret-position="322">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ReverseSubarrayToMaximizeArrayValue.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ContinuousSubarraySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RegularExpressionMatching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/BestTimetoBuyandSellStockIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/WildcardMatching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/StoneGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/SoneGameII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/StoneGameIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/StoneGameIV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/StoneGameV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RotateArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/NQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="173" column="27" selection-start-line="173" selection-start-column="27" selection-end-line="173" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1426">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.0/guava-23.0.jar!/com/google/common/util/concurrent/Callables.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="297" column="17" selection-start-line="297" selection-start-column="17" selection-end-line="297" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/multithread/ThreadPoolException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MajorityChecker.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/multithread/TestThreadLocal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="437">
+          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MajorityElementII.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/MergeMulList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="897">
-          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="167">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/NumberofSubmatricesThatSumtoTarget.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/FindRepeatCharFrom2Str.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5175">
-          <caret line="248" column="12" selection-start-line="248" selection-start-column="12" selection-end-line="248" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1058">
-          <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RandomizedCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RandomizedSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="35" selection-start-column="35" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/FindKthSmallestPairDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MaxChunksToMakeSortedII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MaxChunksToMakeSorted.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MaximumSumof3NonOverlappingSubarrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="943">
-          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/BestTimetoBuyandSellStockIII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/WildcardMatching.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/ValidNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/LongestSubstringWithoutRepeatingCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/SmallestRangeCoveringElementsfromKLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/CountUniqueCharactersofAllSubstringsofaGivenString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MaximumFrequencyStack.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RandomPickwithBlacklist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/FreqStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MaxPointsonaLine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        <state relative-caret-position="410">
+          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/LongestDuplicateSubstring.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/Joseph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="789">
+          <caret line="69" column="28" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
+          <folding>
+            <element signature="e#1603#1604#0" expanded="true" />
+            <element signature="e#1660#1661#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/MinimumInsertionStepstoMakeaStringPalindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/Two.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        <state relative-caret-position="2231">
+          <caret line="121" column="11" selection-start-line="121" selection-start-column="11" selection-end-line="121" selection-end-column="11" />
+          <folding>
+            <element signature="e#4308#4309#0" expanded="true" />
+            <element signature="e#4360#4361#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/TwoArrSumTopk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/Semaphore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="424" column="16" selection-start-line="424" selection-start-column="16" selection-end-line="424" selection-end-column="16" />
+          <folding>
+            <element signature="e#15885#15886#0" expanded="true" />
+            <element signature="e#15922#15923#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="462" column="11" selection-start-line="462" selection-start-column="11" selection-end-line="462" selection-end-column="11" />
+          <folding>
+            <element signature="e#15704#15705#0" expanded="true" />
+            <element signature="e#15770#15771#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RemoveInvalidParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="966">
-          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+        <state relative-caret-position="160">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/BinaryTreeMaximumPathSum.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/CountReversePair.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+        <state relative-caret-position="184">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/EditDistance.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/CountSmallerAfterSelf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/SubarrayswithKDifferentIntegers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/LongestRepeatingCharacterReplacement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/AbstractQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1794">
-          <caret line="111" column="13" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7797">
-          <caret line="373" column="19" selection-start-line="373" selection-start-column="19" selection-end-line="373" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/SlidingWindowMedian.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1127">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/SearchinRotatedSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29417">
-          <caret line="1327" column="15" selection-start-line="1327" selection-start-column="15" selection-end-line="1327" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/FindFirstandLastPositionofElementinSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/PermutationSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/LongestIncreasingPathinaMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjkl/exercise/leetcode/RestoreIPAddresses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="332">
+          <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -3,27 +3,28 @@ package com.hjkl.exercise.leetcode;
 import java.util.Arrays;
 
 public class QuickSort {
-    public static void quickSort(int[] nums) {
-        qSort(nums, 0, nums.length-1);
+
+    private static void quickSort(int[] nums) {
+        quickSort(nums, 0, nums.length-1);
     }
-    private static void qSort(int[] nums, int lo, int hi) {
-        if (lo<hi) {
-            int pivot = partition(nums, lo, hi);
-            qSort(nums, lo, pivot-1);
-            qSort(nums, pivot+1, hi);
+
+    private static void quickSort(int[] nums, int l, int r) {
+        if(l < r) {
+            int pivot = partition(nums, l, r);
+            quickSort(nums, l, pivot-1);
+            quickSort(nums, pivot+1, r);
         }
     }
 
-    private static int partition(int[] nums, int lo, int hi) {
-        for(int i=lo; i<hi; i++) {
-            if (nums[i]<=nums[hi]) {
-                swap(nums, lo++,i);
+    private static int partition(int[] nums, int l, int r) {
+        for(int i=l; i<r; i++) {
+            if(nums[i]<= nums[r]) {
+                swap(nums, l++, i);
             }
         }
-        swap(nums, lo, hi);
-        return lo;
+        swap(nums, l, r);
+        return l;
     }
-
     private static void swap(int[] nums, int i, int j) {
         int tmp = nums[i];
         nums[i] = nums[j];
